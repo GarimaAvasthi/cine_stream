@@ -2,6 +2,9 @@
 
 A responsive React + Vite movie discovery app with infinite scroll, favorites, and animated movie summaries.
 
+# Vercel Application
+https://cine-stream-garimas-projects-89611026.vercel.app/
+
 ## Features
 
 - Search movies with debounced input
