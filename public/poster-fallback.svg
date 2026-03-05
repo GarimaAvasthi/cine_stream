@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450" role="img" aria-labelledby="title desc">
+  <title id="title">Poster unavailable</title>
+  <desc id="desc">Fallback poster image for movies without a poster.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#2b3440" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg)" />
+  <rect x="24" y="24" width="252" height="402" rx="12" fill="none" stroke="#5b6777" stroke-width="2" stroke-dasharray="8 8" />
+  <g fill="#c7d0db" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="150" y="206" font-size="18" font-weight="700">NO POSTER</text>
+    <text x="150" y="230" font-size="14">Image unavailable</text>
+  </g>
+</svg>
